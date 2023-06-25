@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+
 
 import Bio.SeqIO, time, gzip
 from operator import itemgetter
