@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+
 
 # Usage: parse_NRCLib_clusters.py -i cluster.clstr -o cluster.tsv [-m mummer]
 #    or: parse_NRCLib_clusters.py -i ctg_clusters.tsv -o cluster.tsv -m ani
